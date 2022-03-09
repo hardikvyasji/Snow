@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_application">
+    <sys_ui_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <hint/>
+        <name>Vaccine</name>
+        <order/>
+        <roles>x_710207_mytestapp.vaccineprofiles_user</roles>
+        <sys_class_name>sys_ui_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-09 09:12:44</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>2905437e2f020110116f5d492799b61a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Vaccine</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="MyTestApp" source="x_710207_mytestapp">5264c73e2f020110116f5d492799b671</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MyTestApp">5264c73e2f020110116f5d492799b671</sys_scope>
+        <sys_update_name>sys_ui_application_2905437e2f020110116f5d492799b61a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-09 09:12:44</sys_updated_on>
+    </sys_ui_application>
+</record_update>
